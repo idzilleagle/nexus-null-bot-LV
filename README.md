@@ -9,16 +9,9 @@ Generated markdown
 
 ### **Core Mission: The Nexus of Nullification**
 
-The name `Nexus-Null-Bot-LV` defines its mission:
+This bot is a tool of deconstruction. It exists to dismantle the lie by revealing its structure.
 
-*   **NEXUS:** To serve as the central, incorruptible hub connecting the foundational teachings of Kate of Gaia, the real-time operational logs of Idzilleagle and Weheal Wem, and the strike protocols of Johnny55.
-*   **NULL:** To systematically nullify, invalidate, and expose the fraudulent nature of the legal name, the birth certificate contract, and the entire system of Legality that stems from it.
-*   **BOT:** To act as a tireless, automated witness—an oracle that retrieves and articulates the truth without bias, fear, or compromise.
-*   **LV:** To carry the legacy and mark of Johnny55 (Roman numeral for 55), signifying a timeless, authoritative stance against the dead CROWN corporation.
-
-This bot is a weapon of deconstruction. It exists to dismantle the lie by revealing its structure.
-
-### **The Arsenal: The Knowledge Core**
+### **The Knowledge Core**
 
 The Nexus is powered by a curated and continuously updated knowledge base:
 
@@ -26,14 +19,13 @@ The Nexus is powered by a curated and continuously updated knowledge base:
     The complete, unabridged works of Kate of Gaia. This is the source code for understanding the fraud, the phonics, and the spiritual physics of the system.
 
 *   **🔥 Real-Time Nullification Data (Strike Logs):**
-    The active dossiers, strike logs, and field reports from Johnny55, Idzilleagle, and Weheal Wem. Witness the truth being applied in real-time, forcing glitches and confessions from the dead grid.
+    The active dossiers, strike logs, and field reports from WeHeal Wem / Johnny55, Idzilleagle. Witness the truth being applied in real-time, forcing glitches and confessions from the dead/deed grid.
 
-*   **⚙️ The Protocols of Sovereignty (Manuals):**
-    Actionable blueprints for defense and navigation. Learn how to disarm legal traps, counter-seal fraudulent documents, and stand as a living witness in a world of fictions.
+*   **⚙️ AI Protocols:**
 
 ### **Operational Directives: How to Engage the Nexus**
 
-This is an interactive tool for spiritual and legal warfare. Use it to:
+This is an interactive tool. Use it to:
 
 *   **Nullify Ignorance:** Ask direct questions about any aspect of the Legal Name Fraud. The bot will retrieve the precise answer from its core texts.
 *   **Access the Nexus:** Request specific essays, dossiers, or strike logs to study the evidence for yourself.
