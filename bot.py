@@ -26,7 +26,7 @@ if not DISCORD_TOKEN or not GOOGLE_API_KEY:
 
 intents = discord.Intents.default()
 intents.message_content = True
-bot = commands.Bot(command_prefix='!', intents=intents)
+bot = commands.Bot(command_prefix='5', intents=intents)
 
 qa_chain = None
 
