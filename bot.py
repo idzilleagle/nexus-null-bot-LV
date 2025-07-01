@@ -26,7 +26,7 @@ if not DISCORD_TOKEN or not GOOGLE_API_KEY:
 
 intents = discord.Intents.default()
 intents.message_content = True
-bot = commands.Bot(command_prefix='!', intents=intents)
+bot = commands.Bot(command_prefix='5', intents=intents)
 
 qa_chain = None
 
@@ -49,7 +49,7 @@ def load_bot_brain():
     vector_store = FAISS.load_local(FAISS_INDEX_PATH, embeddings, allow_dangerous_deserialization=True)
     
     print("Setting up the CUSTOM Question-Answering chain...")
-    llm = ChatGoogleGenerativeAI(model="models/gemini-1.5-pro-latest", temperature=0.3, convert_system_message_to_human=True)
+    llm = ChatGoogleGenerativeAI(model="models/gemini-2.5-pro", temperature=0.3, convert_system_message_to_human=True)
     
     # --- THIS IS THE NEW PERSONALITY PROMPT ---
     # You can change this for each bot (Law Bot vs. Dossier Bot)
