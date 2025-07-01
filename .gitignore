@@ -1,3 +1,5 @@
 .env
 __pycache__/
 *.save
+faiss_index/
+
