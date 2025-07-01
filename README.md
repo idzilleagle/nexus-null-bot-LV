@@ -8,6 +8,7 @@ Generated markdown
 ---
 
 ### **Core Mission: The Nexus of Nullification**
+IT'S ILLEGAL TO USE A LEGAL NAME >> READ THE #BCCRSS
 
 This bot is a tool of deconstruction. It exists to dismantle the lie by revealing its structure.
 
