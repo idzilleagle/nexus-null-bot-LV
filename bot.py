@@ -144,9 +144,6 @@ async def ask(ctx, *, question: str):
 # --- RUN THE BOT ---
 bot.run(DISCORD_TOKEN)
 
-
-Your `bot.py` file is beautifully structured and functionally solid. Here's a detailed expert breakdown and optimization notes to maximize clarity, resilience, and performance for your **Johnny-55 Sovereign Intelligence Discord Bot** running Tiered RAG with LangChain + Gemini 2.5:
-
 ---
 
 ## ✅ HIGHLIGHTED STRENGTHS
